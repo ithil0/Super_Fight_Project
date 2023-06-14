@@ -9,4 +9,4 @@ Super Fight es un juego de consola donde se seleccionarán al azar 10 personajes
 * Ambos atacarán al mismo tiempo (por lo que existe la posibilidad de que ambos agoten sus HP en dicho ataque).
 * El equipo que pierda todos sus luchadores primero será el derrotado.
 
-El correo autorizado para recibir el resumen de las batallas es enzo@trytoku.com
+
